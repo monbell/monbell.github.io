@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 
 body {
-  background: #DBDBDB;
+  background: #CCD1E0;
   color: #444;
   font-family: "Josefin Sans";
   font-size: 18px;
@@ -56,7 +56,7 @@ h2, h3, h4, h5, h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #DBDBDB;
+  background: #CCD1E0;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -95,7 +95,7 @@ h2, h3, h4, h5, h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #DBDBDB;
+  background: #CCD1E0;
 }
 
 #preloader:before {
@@ -103,7 +103,7 @@ h2, h3, h4, h5, h6 {
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid #DBDBDB;
+  border: 6px solid #CCD1E0;
   border-top: 6px solid #828282;
   border-radius: 50%;
   width: 60px;
@@ -403,7 +403,7 @@ h2, h3, h4, h5, h6 {
   margin: auto;
   font-size: 30px;
   padding-bottom: 60px;
-  color: #DBDBDB;
+  color: #CCD1E0;
 }
 
 .section-header h4 {
@@ -445,7 +445,6 @@ h2, h3, h4, h5, h6 {
 
 #projects .projects-content {
   padding-top: 10px;
-  /* padding-bottom: 10px; */
   padding-left: 20px;
   padding-right: 20px;
   text-align: left;
@@ -460,13 +459,13 @@ h2, h3, h4, h5, h6 {
 
 #projects .box {
   padding: 30px;
-  height: 350px;
+  height: 290px;
   position: relative;
   overflow: hidden;
   border-radius: 5px;
   border-style: solid;
   border-color: #3C3C3C;
-  background: #DBDBDB;
+  background: #CCD1E0;
   box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
   transition: all 0.3s ease-in-out;
   text-align: center;
@@ -480,7 +479,7 @@ h2, h3, h4, h5, h6 {
   border-radius: 5px;
   border-style: solid;
   border-color: #3C3C3C;
-  background: #DBDBDB;
+  background: #CCD1E0;
   box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
   transition: all 0.3s ease-in-out;
   text-align: center;
